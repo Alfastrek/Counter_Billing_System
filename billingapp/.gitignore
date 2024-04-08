@@ -1,0 +1,14 @@
+# Ignore database configuration file (e.g., settings.py with database credentials)
+billingapp\billingapp\settings.py
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore migration files
+*/migrations/
+
+# Ignore log files
+*.log
+
+# Ignore local development settings file
+local_settings.py
