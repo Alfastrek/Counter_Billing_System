@@ -105,11 +105,11 @@ Once the development server is running, you can access the application in your w
 http://127.0.0.1:8000
 ```
 
-### More functionalities soon to be added to be added to this Project such as-
+## More functionalities soon to be added to be added to this Project such as-
+- Sales Analytics with Best Product recommendation based on customer purchase behaviour.
+- Customer Loyalty and Reward Programs that offer Discounts, Coupons and exclusive deals.
+- Analysis and Data Visualization of Traffic and customers to know at what peak time the store operates at its potential.
+- Inventory management API, to handle large inventory into sub-sections.
+- Multiple Payment modes like UPI and cards other than Cash.
 
--Sales Analytics with Best Product recommendation based on customer purchase behaviour.
--Customer Loyalty and Reward Programs that offer Discounts, Coupons and exclusive deals.
--Analysis and Data Visualization of Traffic and customers to know at what peak time the store operates at its potential.
--Inventory management API, to handle large inventory into sub-sections.
--Multiple Payment modes like UPI and cards other than Cash.
 
