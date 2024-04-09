@@ -1,12 +1,1 @@
 
-# Ignore compiled Python files
-*.pyc
-
-# Ignore migration files
-*/migrations/
-
-# Ignore log files
-*.log
-
-# Ignore local development settings file
-local_settings.py
