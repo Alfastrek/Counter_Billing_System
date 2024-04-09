@@ -61,7 +61,7 @@ This project is a web-based billing system for a small-scale shopping mall. It a
    ```
 8. Run the development server:
    ```bash
-   python manage.py runserver 0.0.0.0:8000
+   python manage.py runserver 34.132.57.47:8000
    ```
 
 ## Setup (on local windows machine)
