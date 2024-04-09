@@ -1,5 +1,3 @@
-# Ignore database configuration file (e.g., settings.py with database credentials)
-billingapp\billingapp\settings.py
 
 # Ignore compiled Python files
 *.pyc
