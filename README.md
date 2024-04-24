@@ -1,5 +1,5 @@
 # Counter-Billing-System
-Assignment for SPACE-Y Organisation
+
 
 This project is a web-based billing system for a small-scale shopping mall. It allows employees to manage products, and customers, and generate bills for cash payments.
 
